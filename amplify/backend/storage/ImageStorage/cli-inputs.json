@@ -1,0 +1,14 @@
+{
+  "resourceName": "ImageStorage",
+  "policyUUID": "56a919af",
+  "bucketName": "amplify-react-graphql-testing",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
